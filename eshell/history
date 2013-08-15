@@ -1,0 +1,62 @@
+ls
+cat uddi4r-client.rb 
+ls
+cd uddi4r-client/
+ls
+cat mongodb_proxy.rb 
+ls
+cat prometheusice_proxy.rb 
+ls
+cat version.rb 
+cat restful_proxy.rb 
+ls
+cd ...
+ls
+cd spec/
+ls
+cat client_spec.rb 
+ls
+cat spec_helper.rb 
+cd
+ls
+cd program/
+ls
+cd ruby/
+ruby songList.rb 
+ruby songList.rb 
+rm testSongList.rb 
+ruby open_and_process.rb 
+ruby open_and_process.rb songList.rb
+ls
+ruby open_and_process.rb Helllo.rb
+ruby open_and_process.rb Helllo.rb
+ruby open_and_process.rb Hello.rb 
+ruby open_and_process.rb Hello.rb 
+ruby open_and_process.rb Hello.rb 
+ls
+ruby -rubygems app.rb
+ps -e|grep "ruby"
+kill 5872
+ruby -rubygems app.rb
+ruby -rubygems myApp.rb 
+ruby -rubygems myApp.rb 
+ruby -rubygems scopeApp.rb 
+ls
+cd ..
+ls
+mkdir meta_programming
+ls
+cd /home/hacking/work/ip_man/
+ls
+shotgun
+shotgun
+ls
+cd 
+ls
+cd work/ip_man/config/
+ls
+e environment.yml &
+emacs environment.yml &
+emacs environment.yml &
+ls
+emacs boot.rb &

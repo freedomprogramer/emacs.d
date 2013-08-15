@@ -1,0 +1,4 @@
+#name : before_filter xxx
+#group : definitions
+# --
+before_filter ${self}

@@ -1,0 +1,5 @@
+#name : belongs_to
+#key : mbt
+#group : rails.model
+# --
+belongs_to :${1:name}

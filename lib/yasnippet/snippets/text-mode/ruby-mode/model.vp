@@ -1,0 +1,5 @@
+#name : validates_presence_of
+#key : mvp
+#group : rails.model
+# --
+validates_presence_of :${1:name}

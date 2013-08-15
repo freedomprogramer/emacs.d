@@ -1,0 +1,6 @@
+#name : def xxx ... end
+#group : definitions
+# --
+def ${self}
+
+end
